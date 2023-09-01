@@ -1,3 +1,3 @@
-module tutorial.sqlc.dev/app
+module simplebank
 
 go 1.21.0
